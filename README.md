@@ -2,6 +2,9 @@
 
 An AI-powered cooking app that turns random ingredients into gourmet (or hilarious) recipes using the Google Gemini API.
 
+<img width="340" height="404" alt="image" src="https://github.com/user-attachments/assets/5f7f4442-fe94-4288-9372-1ee99945cfa0" />
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
